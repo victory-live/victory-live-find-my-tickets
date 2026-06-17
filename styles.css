@@ -61,7 +61,7 @@ header {
 .flow {
   max-width:960px;
   margin:0 auto;
-  padding:40px 24px 60px;
+  padding:40px 24px 160px;
 }
 .flow-steps {
   display:flex;

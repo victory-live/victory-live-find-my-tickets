@@ -5,7 +5,7 @@
   --navy2:   #0F2347;
   --royal:   #0B8BFF;
   --purple:  #4F2972;
-  --purple2: #6B3A96;
+  --purple2: #4F2972;
   --gold:    #F2A71B;
   --white:   #FFFFFF;
   --offwhite:#F5F6FA;
@@ -20,7 +20,7 @@ body { font-family:'Satoshi',sans-serif; background:var(--offwhite); color:var(-
 
 /* ── HEADER ── */
 header {
-  background:var(--navy);
+  background:var(--purple);
   border-bottom:3px solid var(--royal);
   padding:0 40px;
   height:68px;

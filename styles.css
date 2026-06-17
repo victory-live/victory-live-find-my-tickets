@@ -40,7 +40,7 @@ header {
 /* ── HERO ── */
 .hero {
   background: linear-gradient(150deg, rgba(11,35,71,.45) 0%, rgba(11,26,46,.4) 50%, rgba(26,10,46,.45) 100%), url('victorylive_hero_background.svg') center/cover no-repeat;
-  padding:56px 40px 48px;
+  padding:150px 40px;
   text-align:center;
   position:relative;
   overflow:hidden;
@@ -243,7 +243,7 @@ footer {
 /* ── RESPONSIVE ── */
 @media(max-width:640px) {
   header { padding:0 16px; }
-  .hero { padding:40px 20px 36px; }
+  .hero { padding:150px 20px; }
   .flow { padding:28px 16px 48px; }
   .cat-grid { grid-template-columns:repeat(2,1fr); }
   .results-grid { grid-template-columns:1fr; }
